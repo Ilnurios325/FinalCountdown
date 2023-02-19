@@ -1,0 +1,15 @@
+C:\Users\Qeeveik\Desktop\tasks\finalWork\homeWork\bin\Debug\net6.0\homeWork.exe
+C:\Users\Qeeveik\Desktop\tasks\finalWork\homeWork\bin\Debug\net6.0\homeWork.deps.json
+C:\Users\Qeeveik\Desktop\tasks\finalWork\homeWork\bin\Debug\net6.0\homeWork.runtimeconfig.json
+C:\Users\Qeeveik\Desktop\tasks\finalWork\homeWork\bin\Debug\net6.0\homeWork.dll
+C:\Users\Qeeveik\Desktop\tasks\finalWork\homeWork\bin\Debug\net6.0\homeWork.pdb
+C:\Users\Qeeveik\Desktop\tasks\finalWork\homeWork\obj\Debug\net6.0\homeWork.csproj.AssemblyReference.cache
+C:\Users\Qeeveik\Desktop\tasks\finalWork\homeWork\obj\Debug\net6.0\homeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qeeveik\Desktop\tasks\finalWork\homeWork\obj\Debug\net6.0\homeWork.AssemblyInfoInputs.cache
+C:\Users\Qeeveik\Desktop\tasks\finalWork\homeWork\obj\Debug\net6.0\homeWork.AssemblyInfo.cs
+C:\Users\Qeeveik\Desktop\tasks\finalWork\homeWork\obj\Debug\net6.0\homeWork.csproj.CoreCompileInputs.cache
+C:\Users\Qeeveik\Desktop\tasks\finalWork\homeWork\obj\Debug\net6.0\homeWork.dll
+C:\Users\Qeeveik\Desktop\tasks\finalWork\homeWork\obj\Debug\net6.0\refint\homeWork.dll
+C:\Users\Qeeveik\Desktop\tasks\finalWork\homeWork\obj\Debug\net6.0\homeWork.pdb
+C:\Users\Qeeveik\Desktop\tasks\finalWork\homeWork\obj\Debug\net6.0\homeWork.genruntimeconfig.cache
+C:\Users\Qeeveik\Desktop\tasks\finalWork\homeWork\obj\Debug\net6.0\ref\homeWork.dll
